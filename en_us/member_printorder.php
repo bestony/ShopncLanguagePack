@@ -1,0 +1,36 @@
+<?php
+defined('InShopNC') or exit('Access Invalid!');
+$lang['member_printorder_ordererror']		= 'Order information error';
+
+$lang['member_printorder_title']			= 'Invoice';
+$lang['member_printorder_orderno']			= 'Order number';
+$lang['member_printorder_orderadddate']		= 'Place the order of time';
+$lang['member_printorder_shippingcode']		= 'Invoice no.';
+$lang['member_printorder_truename']     	= 'Consignee';
+$lang['member_printorder_area']     		= 'Location';
+$lang['member_printorder_address']     		= 'Address';
+$lang['member_printorder_zip_code']     	= 'Zip code';
+$lang['member_printorder_tel_phone']     	= 'Phone';
+$lang['member_printorder_mob_phone']     	= 'Mobile phone';
+$lang['member_printorder_serialnumber']		= 'Serial number';
+$lang['member_printorder_goodsname']     	= 'Trade name';
+$lang['member_printorder_specification']	= 'Standard';
+$lang['member_printorder_goodsprice']     	= 'Unit price';
+$lang['member_printorder_goodsnum']     	= 'Quantity';
+$lang['member_printorder_subtotal']     	= 'Subtotal';
+$lang['member_printorder_amountto']     	= 'Total ';
+$lang['member_printorder_totle']     		= 'Aggregate';
+$lang['member_printorder_freight']   		= 'Freight';
+$lang['member_printorder_privilege']  		= 'Favorable';
+$lang['member_printorder_orderamount']  	= 'The total order';
+$lang['member_printorder_shop']  			= 'Store';
+$lang['member_printorder_shopowner']  		= 'The owner name';
+$lang['member_printorder_shoptelephone']  	= 'Phone';
+$lang['member_printorder_shopww']  			= 'Aliwangwang';
+$lang['member_printorder_pagetext_1']  		= 'First left ';
+$lang['member_printorder_pagetext_2']  		= 'Page';
+$lang['member_printorder_pagetext_3']  		= 'Common';
+$lang['member_printorder_print']  			= 'Print';
+$lang['member_printorder_print_tip']	  	= 'print';
+$lang['member_printorder_print_tip_A5']  	= 'When print Settings select the a5 paper,horizontal printing,from endless each a5 paper can output 1 page order.';
+$lang['member_printorder_print_tip_A4']  	= 'When print setup select a4 paper,the vertical print,away from the endless each page a4 printing paper can be output 2 orders.';

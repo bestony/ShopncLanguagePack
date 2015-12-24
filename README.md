@@ -1,2 +1,2 @@
 # ShopncLanguagePack
-Shopnc English Language Package
+Shopnc 语言包
